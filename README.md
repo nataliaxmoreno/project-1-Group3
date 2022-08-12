@@ -13,9 +13,13 @@ The goal of this project is to explore the increase in Greenhouse Gas Emissions 
 Key questions to be answered:
 
 (1) Over time, what sources produce the most pollution in the US from 1998-2019?  
+
 (2) How has honey production yield changed from 1998 to 2019?
+
 (3) Are there any patterns that can be observed between total honey production and total pollution?
+
 (4) How has each sector affected honey production? 
+
 (5) Is there a correlation between bee colonies and honey production?
 
 
