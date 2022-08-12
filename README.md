@@ -11,3 +11,6 @@ Objective/Hypothesis:
 The goal of this project is to explore the increase in Greenhouse Gas Emissions and the effect it has on honey production over the years (1998-2019) in the United States.
 
 Key questions to be answered:
+
+
+Final Conclusions:
