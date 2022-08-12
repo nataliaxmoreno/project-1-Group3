@@ -36,7 +36,25 @@ Analysis:
     In the Electric Power Production area, the Electric Power Production directly impacts  the CO2 levels. The r squared value is about 0.8 Here there’s a definite
     correlation between the production of electric power and CO2.(Slide 9)
     The plot of Industrial Emissions follows the CO2. The r squared value is 0.55. So the correlation is strong.(Slide 10)
+
+
+(2) The data shows that the honey production is spread over 44 states from 1998-2019 
+
+    We saw that the top producing states were North Dakota, California, South Dakota, Florida, Montana, Minnesota, and Texas. It was surprising to see   colder states ND, SD, and MN producing the top amounts of honey. We assumed that bees thrive in warmer areas like CA, FL, and TX.
+    
+    The overall honey production in the US has been decreasing over the years with ppikes in 2008, 2010, 2014.
+    
+    Honey production is measured by number of colonies and yield per colony. Total honey production = number of colonies * average yield per colony.    
   
+  
+(3) 1998 to 2008 the number of colonies decreased considerably, reaching the lowest point of about 2.3 million colonies in the entire country in 2008. From 2009 to 2010, we can see the population of bee colonies recovered, surpassing 2.6 million. Even though the number of colonies have not decreased as much as they did during the first 10 year period of the study, we can see that the population is still stuck in the 2.6 to 2.8 million range over the last 5 years. 
+
+    Even though it seems promising that the bee colonies are somehow surviving and overall increasing in number, that is not the whole story. The drastic decrease in the amount of honey the colonies are able to produce over the 20 years of data gathered. We can see for instance that the bee colonies from the 1998 harvest were able to produce around 3000 pounds of honey. By 2019 the colonies could barely produce 2000 pounds despite having more colonies than ever recorded in the data. It is also interesting to see how in 2008 to 2009 the yield per colony decreased dramatically while in that same year bee colonies were increasing in number. This is because honey is not harvested  during the first year of the beehive because the colony is still growing and working on its honey production.
+    
+    Colonies vs honey production: We can see the correlation between honey production and number of colonies over the years where we obtained an r-value 0.145. It is fair to say that there is a non-existent correlation between those two variables. To summarize, this chart shows that the total amount of honey produced by colonies is not necessarily impacted by how many colonies there are, so we must investigate some other factor that is causing the amount of honey production to decline at this pace.
+    
+    
+(4)    
 
 
 Final Conclusions:
