@@ -27,7 +27,16 @@ Key questions to be answered:
 
 
 Analysis:
-
+ 
+(1) As CO2 is an important GreenHouse Gas, we looked at it’s emissions.
+    We looked at the major contributors of CO2 emissions. Production of electric power, transportation and Industrial emissions are the main polluters
+    The next graph is the CO2 levels from 1998 to 2019. During the years 2005, 2006, the CO2 emissions were maximum. It was surprising to find that the CO2 level in       the atmosphere is decreasing over the years.(Slide 7 in the Google slides in the above link)
+    The next 3 sets of graphs show the relationship between CO2 levels and the major polluters. (Slide 8 through 10 in the Google slides in the above link)
+    When we look at the transportation sector, there is not much correlation between CO2 and Transport emissions. As the r squared value is very low (0.29).  Our           conclusion was that the GreenHouse Gas emissions produced by Transport are increasing but they are not CO2. (Slide 8)
+    In the Electric Power Production area, the Electric Power Production directly impacts  the CO2 levels. The r squared value is about 0.8 Here there’s a definite
+    correlation between the production of electric power and CO2.(Slide 9)
+    The plot of Industrial Emissions follows the CO2. The r squared value is 0.55. So the correlation is strong.(Slide 10)
+  
 
 
 Final Conclusions:
