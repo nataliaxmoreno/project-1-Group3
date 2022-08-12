@@ -6,9 +6,11 @@ Introduction
 
 Climate change is one of the most important environmental problems we face today, affecting not only humans but also other species of the planet. It takes more than soil, water, and sunshine to make the world green. At least 30% of the world’s crops and 90% of all plants require cross-pollination to spread and thrive. As pollinators, bees play a part in every aspect of the ecosystem. Bees contribute to complex, interconnected ecosystems that allow a diverse number of different species to coexist. However, the bee population is in a rapid decline across the globe, stressed by pesticides, lack of food, and pollution. In our exploratory data analysis, we will focus on the effects of pollution on bees in the US and American honey agriculture.
 
+
 Objective/Hypothesis:
 
 The goal of this project is to explore the increase in Greenhouse Gas Emissions and the effect it has on honey production over the years (1998-2019) in the United States.
+
 
 Key questions to be answered:
 
@@ -24,4 +26,10 @@ Key questions to be answered:
 
 
 
+Analysis:
+
+
+
 Final Conclusions:
+
+
